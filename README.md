@@ -1,2 +1,2 @@
 # Malloc 
-Implementation of malloc from scracth using mmap
+Implementation of malloc from scratch using mmap
