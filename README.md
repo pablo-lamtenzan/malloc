@@ -1,1 +1,2 @@
-# Malloc implementation from scratch using mmap as 42 subejct
+# Malloc 
+Implementation of malloc from scracth using mmap
